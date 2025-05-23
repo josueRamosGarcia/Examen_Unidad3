@@ -79,7 +79,7 @@ namespace Examen_Unidad3
         
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-            this.Close();// Cancelar
+            this.Close();// Cancelarr
         }
 
         private void btnImprimir_Click(object sender, EventArgs e)
